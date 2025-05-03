@@ -12,7 +12,7 @@ Welcome to my professional portfolio repository!
 
 This repository hosts the public version of my portfolio built with **HTML5** and **Bootstrap 5**, focused on clarity, professionalism and elegance.
 
-🔗 **View it live:** [https://bruviniMartins.github.io](https://bruviniMartins.github.io)
+🔗 **View it live:** [https://bruvinimartins.github.io/meu-portfolio/](https://bruvinimartins.github.io/meu-portfolio/) 
 
 ---
 
